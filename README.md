@@ -1,1 +1,1 @@
-# Jerry-deVera-Portfolio
+Senior mechanical design engineer in Kent, Washington. Specializes in parametric design automation with Autodesk Inventor iLogic, converting 2D workflows into configurable 3D systems. Past work spans aerial work platforms, material handling, and custom exterior doors. Portfolio samples below.
